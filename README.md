@@ -1,5 +1,9 @@
 # Continuous Tab Interaction
 
+
+https://github.com/user-attachments/assets/b0aedccf-8faf-4817-a496-62a4ea178a4a
+
+
 Continuous Tab Interaction
 Inspired by [Nitish](https://x.com/nitishkmrk).
 
