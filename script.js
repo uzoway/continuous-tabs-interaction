@@ -34,8 +34,8 @@ mm.add(
           x: button.offsetLeft,
           width: button.clientWidth,
           overwrite: true,
-          ease: prefersReducedMotion ? "none" : "back.out(.8)",
-          duration: prefersReducedMotion ? 0 : 0.51,
+          ease: prefersReducedMotion ? "none" : "back.out(0.7)",
+          duration: prefersReducedMotion ? 0 : 0.46,
         });
 
         currentNavbutton = button;
