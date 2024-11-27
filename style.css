@@ -1,0 +1,58 @@
+/* Reset and utility class setup */
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+
+html,
+body {
+  width: 100vw;
+  height: 100svh;
+  overflow: hidden;
+  position: relative;
+}
+
+a {
+  text-decoration: none;
+  color: var(--black);
+}
+
+li {
+  list-style: none;
+  display: inline-flex;
+}
+
+p,
+span,
+a,
+button {
+  line-height: 0.9cap;
+  font-size: clamp(0.75rem, 1rem + 0.25vw, 0.85rem);
+  text-transform: uppercase;
+  font-weight: 600;
+  text-wrap: nowrap;
+}
+
+button {
+  background-color: transparent;
+  border: 0;
+  cursor: pointer;
+}
+
+button:focus-visible,
+a:focus-visible {
+  outline: 2px solid black;
+}
+
+ul {
+  line-height: 0.9cap;
+}
+
+/* Page styling */
+
+/* Responsive design */
+@media (max-width: 750px) {
+}
