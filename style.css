@@ -72,9 +72,9 @@ li {
   border: 0;
   padding: 1.25rem 2rem;
   border-radius: 5rem;
-  font-size: clamp(1rem, 0.9643rem + 0.1786vw, 1.125rem);
+  font-size: clamp(1rem, 1.9643rem + 0.1786vw, 2rem);
   font-family: "DM Sans", serif;
-  font-weight: 400;
+  font-weight: 500;
 }
 
 .nav-container .cc-tab-indicator {
@@ -87,6 +87,7 @@ li {
   border-radius: 5rem;
   z-index: 1;
   pointer-events: none;
+  will-change: transform;
 }
 
 
