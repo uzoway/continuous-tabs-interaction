@@ -1,7 +1,7 @@
-<!-- # Jen Grisowold Personal Website
+# Continuous Tab Interaction
 
-Development of a conceptual animation for the personal website of digital content creator Jen Griswold.
-Design & Motion by [Alex Tkachev](https://twitter.com/simply_aalex).
+Continuous Tab Interaction
+Inspired by [Nitish](https://x.com/nitishkmrk).
 
 ## Table of contents
 
@@ -20,7 +20,7 @@ Design & Motion by [Alex Tkachev](https://twitter.com/simply_aalex).
 
 - HTML5
 - CSS3
-- JavaScript/GSAP
+- GSAP
 
 ### Approach
 
@@ -33,4 +33,4 @@ Feel free to review the code for a more detailed understanding of my approach, a
 
 ## Credit
 
-Huge credits goes to [Alex Tkachev](https://twitter.com/simply_aalex)🙌 who created the original design and motion which I have coded. -->
+Huge credits goes to [Nitish](https://x.com/nitishkmrk)🙌 who created the original design and motion which I have coded.
